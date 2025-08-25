@@ -26,7 +26,7 @@ Loops (for, while, nested loops for multiplication table)
 File existence check
 User input with break statement
 
-Part E – Scheduling & Process Problems
+Part D – Scheduling & Process Problems
 --------------------------------------------------------------------------------
 Solve problems on:
 FCFS – Calculate average waiting time
